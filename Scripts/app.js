@@ -92,7 +92,7 @@
 
         $("#AboutUsButton").on("click", function()
         {
-            location.href = "/about";
+            location.href = "/about.html";
         });
 
         $("main").append(`<p id="MainParagraph" class="mt-3">This is the Main Paragraph</p>`);
